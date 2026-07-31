@@ -5,8 +5,8 @@
 %global crate bytesize
 
 Name:           rust-%{crate}
-Version:        1.0.0
-Release:        5%{?dist}
+Version:        2.4.2
+Release:        1%{?dist}
 Summary:        Human-readable bytes representations
 
 # Upstream license specification: Apache-2.0
